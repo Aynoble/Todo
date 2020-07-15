@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: grey;
+}
+.main {
+  width: 200px;
+  margin: auto;
+  position: relative;
+  top: 50px;
+  background-color: #e3e3e3;
+  box-shadow: 10px 12px 3px black;
+  border-radius: 10px;
+}
+.container {
+  display: flex;
+  box-shadow: 7px 3px 3px black;
+}
+.myInput,
+.myText {
+  margin-top: 50px;
+  text-align: center;
+}
